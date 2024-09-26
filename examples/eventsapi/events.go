@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/slack-go/slack"
-	"github.com/slack-go/slack/slackevents"
+	"github.com/gideonw/slack"
+	"github.com/gideonw/slack/slackevents"
 )
 
 // You more than likely want your "Bot User OAuth Access Token" which starts with "xoxb-"

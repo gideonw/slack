@@ -2,7 +2,8 @@ package tokens
 
 import (
 	"fmt"
-	"github.com/slack-go/slack"
+
+	"github.com/gideonw/slack"
 )
 
 func main() {

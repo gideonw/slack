@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/slack-go/slack"
+	"github.com/gideonw/slack"
 
 	"github.com/gorilla/websocket"
 )
